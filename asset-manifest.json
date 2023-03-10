@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Practik-React/static/css/main.7acaea2f.css",
+    "main.js": "/Practik-React/static/js/main.07d3183d.js",
+    "index.html": "/Practik-React/index.html",
+    "main.7acaea2f.css.map": "/Practik-React/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Practik-React/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
